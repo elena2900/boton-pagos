@@ -1,0 +1,2 @@
+# Verificar Compra
+** compra verificada
